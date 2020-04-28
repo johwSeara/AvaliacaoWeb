@@ -21,7 +21,6 @@ public class CadastraNoticiaController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	
-	
 	/**
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
 	 */
